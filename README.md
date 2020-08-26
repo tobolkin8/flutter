@@ -1,4 +1,4 @@
-# i_am_rich
+# Nina_v_2
 
 A new Flutter application.
 
